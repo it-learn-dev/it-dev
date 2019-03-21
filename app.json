@@ -1,0 +1,19 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "new for it dev",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "it-dev",
+  "scripts": {
+    "postdeploy": "Node JS",
+    "pr-predestroy": "Node JS"
+  },
+  "stack": "heroku-18"
+}
